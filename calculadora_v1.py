@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 continuar = True
 print('-----------CALCULADORA V1.0-----------')
 
@@ -35,4 +37,5 @@ while continuar:
         print(f'{num1} / {num2} = {divisao} ')
     else:
         continuar = False
+
         print('SAINDO....')
